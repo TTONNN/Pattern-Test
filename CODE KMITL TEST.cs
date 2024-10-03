@@ -1,5 +1,5 @@
 
-
+//dotnet new console -o app  cd app  code .
 //    Console.Write("Enter Number: ");
 //    int A = int.Parse(Console.ReadLine());  
 
